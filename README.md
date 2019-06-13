@@ -97,4 +97,3 @@ Written versions of content are under open development here:
   * Easy-to-type rstd.io short link to that GitHub Pages site: [rstd.io/raukr](https://rstd.io/raukr)
 
 
-Exciting announcement about food!
